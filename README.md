@@ -23,7 +23,7 @@ RoboSpeaker 1.0 is a Python-based text-to-speech (TTS) application that can perf
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/RoboSpeaker-1.0.git
+   git clone https://github.com/iChetanRaval/RoboSpeaker-1.0.git
 Install the required libraries:
 pip install pyttsx3 pygame playsound
 Run the robo_speaker.py script:
